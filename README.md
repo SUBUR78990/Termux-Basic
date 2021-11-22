@@ -46,7 +46,7 @@ termux-setup-storage.
    $ git clone https://github.com/SUBUR78990/Termux-Basic.git
    ```
    ```
-   $ cd vppbasic 
+   $ cd Termux-Basic
    ```
    ```
    $ ls
@@ -58,16 +58,16 @@ termux-setup-storage.
    $ ls
    ```
    ```
-   $ python vppbasic.py
+   $ python Tools-Termux.py
 ```
 
 This will take too much time it's depends on your data connection. 
 
 ### Visit on YouTube Channel
 
-https://www.youtube.com/channel/UCIQ5wO7zmPmjnIBm1d_fGKw
+http://bit.ly/2ZUcZvP
 
 For Hacking Videos Subscribe
 
 ### My Website
-www.vpphacker.com
+support: www.vpphacker.com
