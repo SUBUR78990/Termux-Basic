@@ -31,7 +31,7 @@ CHANNEL : Cyber-BasT7
 TIDAK MENGEMIS SUBCRIBE & LIKE 
  
 { HACKERS ABAL ABAL } link : http://bit.ly/2ZUcZvP
-
+[00] fish
 [01] python
 [02] python2
 [03] python-dev
@@ -72,6 +72,8 @@ os.system ("apt install java -y")
 os.system ("apt install git -y")
 os.system ("apt install perl -y")
 os.system ("apt install bash")
+os.system ("apt install fish")
+
 
 print ("wait for second and start hacking")
 
@@ -84,6 +86,7 @@ os.system ("apt install clang -y")
 os.system ("apt install nmap -y")
 os.system ("apt install w3m -y")
 os.system ("apt install hydra -y")
+os.system ("apt install fish -y")
 
 
 print ("""
